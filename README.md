@@ -19,7 +19,7 @@ Hackintosh, OpenCore EFI for Lenovo ThinkCentre M920x / P330 Tiny
 |---|---|---|
 | OpenRuntime.efi | 1.0.0 | https://github.com/acidanthera/OpenCorePkg/releases |
 | ResetNvramEntry.efi | 1.0.0 | https://github.com/acidanthera/OpenCorePkg/releases |
-| HfsPlus.efi | c2a9898 | https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi |
+| HfsPlus.efi | c2a9898 | https://github.com/acidanthera/OcBinaryData |
 
 ### Kexts
 | Name | Version | URL |
